@@ -1,2 +1,2 @@
 # TinDog
-## Overview
+## Overview.
